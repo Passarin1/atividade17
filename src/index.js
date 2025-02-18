@@ -1,5 +1,5 @@
-import roteadorUsuario from "./routes/usuarios.js";
 import roteadorLogin from "./routes/login.js";
+import roteadorUsuario from "./routes/usuarios.js";
 
 import dotenv from "dotenv";
 import express from "express";
